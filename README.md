@@ -1,2 +1,2 @@
 # git-testgithub
-test
+testing purpose
